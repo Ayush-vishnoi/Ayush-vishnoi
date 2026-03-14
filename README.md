@@ -3,7 +3,7 @@
 ### B.Tech CSE (AI & ML) Student | Data Science & AI Enthusiast
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+%7C+ML+Developer;Data+Science+Enthusiast;Java+DSA+Learner;Building+AI+Projects;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Data+Science+Enthusiast;Java+DSA+Learner;Building+AI+Projects;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
