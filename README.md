@@ -46,25 +46,6 @@
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
 </p>
 
----
-
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ayush-vishnoi&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
-## 📊 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-vishnoi&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
