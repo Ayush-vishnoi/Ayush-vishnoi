@@ -14,7 +14,8 @@
 
 ## 🚀 About Me
 
-* 🔭 I’m currently working on **SmartHarvest.ai** https://ayushvishnoi.pythonanywhere.com
+* 🔭 I’m currently working on **SmartHarvest.ai**
+* Live Demo: https://ayushvishnoi.pythonanywhere.com
 * 🌱 I’m currently learning **Machine Learning, Data Science, Statistics & DSA**
 * 💡 Interested in **AI Engineering, Intelligent Systems, and Data Analysis**
 * 📫 Reach me at **[ayushvishnoi000@gmail.com](mailto:ayushvishnoi000@gmail.com)**
@@ -38,7 +39,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/>
+
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
