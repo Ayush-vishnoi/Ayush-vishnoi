@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 * 🔭 I’m currently working on **SmartHarvest.ai**
-* Live Demo: https://ayushvishnoi.pythonanywhere.com
+* Live Demo: https://smart-harvest-ai.onrender.com
 * 🌱 I’m currently learning **Machine Learning, Data Science, Statistics & DSA**
 * 💡 Interested in **AI Engineering, Intelligent Systems, and Data Analysis**
 * 📫 Reach me at **[ayushvishnoi000@gmail.com](mailto:ayushvishnoi000@gmail.com)**
