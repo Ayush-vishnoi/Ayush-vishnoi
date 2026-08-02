@@ -56,14 +56,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-vishnoi&theme=tokyonight"/>
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
